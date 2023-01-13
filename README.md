@@ -2,7 +2,19 @@ Installing jenkins and CI/CD TASK
 
 Open aws and lauch linux server
 
-open terminal
+open terminal![Screenshot (346)](https://user-images.githubusercontent.com/119240540/212384293-4f6ce40b-32c9-407f-8149-9ac1e3a0908d.png)
+![Screenshot (347)](https://user-images.githubusercontent.com/119240540/212384327-3e6a54fd-2975-452a-8457-282da8658525.png)
+![Screenshot (348)](https://user-images.githubusercontent.com/119240540/212384353-6a89e6cf-c2d4-4de7-b751-121a40ffc002.png)
+![Screenshot (349)](https://user-images.githubusercontent.com/119240540/212384384-c315273d-7acc-4b69-a00c-93b012aad103.png)
+![Screenshot (350)](https://user-images.githubusercontent.com/119240540/212384409-f7830477-3cbb-4827-a455-d6526c86e04f.png)
+![Screenshot (351)](https://user-images.githubusercontent.com/119240540/212384437-fd1e48ca-df30-48f0-89ed-51e43316639a.png)
+![Screenshot (352)](https://user-images.githubusercontent.com/119240540/212384465-aa1e3170-a249-49f1-9e65-117e9677047b.png)
+![Screenshot (353)](https://user-images.githubusercontent.com/119240540/212384480-92009460-3d39-4795-b0ca-9ac9e48fdf3d.png)
+![Screenshot (354)](https://user-images.githubusercontent.com/119240540/212384496-86498ece-9b5b-468f-8ae0-3d66c3a483cb.png)
+![Screenshot (355)](https://user-images.githubusercontent.com/119240540/212384510-198dd309-d46a-44ce-874f-a5a0356d0ad7.png)
+![Screenshot (356)](https://user-images.githubusercontent.com/119240540/212384526-d8519add-524a-457c-a919-4e723be71fb1.png)
+![Screenshot (357)](https://user-images.githubusercontent.com/119240540/212384541-26d7984d-613e-4c0a-a473-8fb57c7bc229.png)
+
 and performe these commands
 
 sudo yum update -y
