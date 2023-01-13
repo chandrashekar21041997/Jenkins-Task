@@ -59,7 +59,7 @@ add git link
 
 mkdir guvi
 ls
-cp Dockerfile guvi/
+cp Dockerfile guvi/<br>
 cp index.html guvi/
 tar -cvf guvi.tar.gz guvi/
 scp -T -o StrictHostkeyChecking=no -i $key guvi.tar.gz ec2-user@13.115.130.16:/home/ec2-user/
